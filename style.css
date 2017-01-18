@@ -1,0 +1,29 @@
+body {
+    padding-top: 50px;
+    text-align: center;
+    background-color: Grey;
+}
+header {
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+    color: White;
+    background-color: Black;
+    height: auto;
+    width: auto;
+}
+.story {
+    text-align: center;
+    padding-left: 180px;
+    padding-right: 180px;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.cat {
+    background-color: Black;
+    color: White;
+    position: absolute;
+    left: 0px;
+    width: 300px;
+    padding: 10px;
+}
